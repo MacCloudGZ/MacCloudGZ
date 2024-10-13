@@ -1,7 +1,9 @@
 ## Hi there my name is MacCloud👋
       I like coding for fun..
+      my moto is 
+            **"If you're gonna dream big, always drink coffeee, cuz we dont dream we work"**
 
-# Here's my progress so far:
+ **Here's my progress so far:**
     HTML
     CSS
     JavaScript
