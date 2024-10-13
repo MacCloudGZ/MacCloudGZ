@@ -1,5 +1,15 @@
 ## Hi there my name is MacCloud👋
-Hello my name is MacCloud I like coding for fun
+      I like coding for fun..
+
+# Here's my progress so far:
+    HTML
+    CSS
+    JavaScript
+    C++
+    YML
+    LINUX
+    ISE
+    JAVA
 <!--
 **GabbyZabala/gabbyzabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
