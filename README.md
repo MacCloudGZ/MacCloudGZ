@@ -19,7 +19,7 @@ I like coding for fun and pushing my limits.
 ---
 
 ## 📊 GitHub Stats:
-![MacCloud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![MacCloud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MacCloudGZ&show_icons=true&theme=radical)  
 
 ---
 
